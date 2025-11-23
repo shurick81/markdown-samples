@@ -21,3 +21,10 @@ Diagram 2:
 graph
   kubernetes["<img src='kubernetes-icon-color.svg' />"]
 ```
+
+Diagram 3:
+
+```mermaid
+graph
+  kubernetes["<img src='./kubernetes-icon-color.svg' />"]
+```
