@@ -6,4 +6,4 @@ Picture 1:
 
 Picture 2:
 
-![sample picture]([kubernetes-icon-color.svg)
+![sample picture]([./kubernetes-icon-color.svg)
